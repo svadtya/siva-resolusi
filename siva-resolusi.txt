@@ -1,0 +1,4 @@
+SIVA RESOLUSI
+- Bisa menggunakan html, css, dan javascript
+- Membuka rekening BCA dan indodax
+- Menginstall Linux
