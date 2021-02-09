@@ -2,3 +2,5 @@ SIVA RESOLUSI
 - Bisa menggunakan html, css, dan javascript
 - Membuka rekening BCA dan indodax
 - Menginstall Linux
+- Mahir menggunakan version control system
+- Mampu mengikuti internship dengan baik
